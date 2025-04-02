@@ -1,7 +1,7 @@
-# PlanPro
+# ProcessPro
 
 ## Overview
-PlanPro is a React-based web application designed for efficient process planning and management. It provides an intuitive interface for users to define, track, and optimize processes, ensuring better workflow efficiency and productivity.
+ProcessPro is a React-based web application designed for efficient process planning and management. It provides an intuitive interface for users to define, track, and optimize processes, ensuring better workflow efficiency and productivity.
 
 ## Features
 - **Interactive Dashboard**: Provides an overview of ongoing and completed processes.
